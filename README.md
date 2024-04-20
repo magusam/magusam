@@ -192,7 +192,7 @@ CB Response 6.1+ supports all 5.0 IOCs and adds one additional type:
 
 `iocs` is a structure with one or more of these entries:
 
-| name           | status   | description | 
+| name           | status   | description |  
 | -------------- | -------- |-------------| 
 | `ipv4`         | OPTIONAL | A list of IPv4 addresses in dotted decimal form|
 | `ipv6`         | OPTIONAL | A list of IPv6 addresses|
